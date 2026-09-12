@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## About Me
 
 My academic interests lie at the intersection of finance, economics and data science. I am particularly interested in quantitative finance, financial econometrics, time-series forecasting and the application of machine learning and natural language processing to financial research.
