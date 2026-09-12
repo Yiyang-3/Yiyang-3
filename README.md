@@ -1,0 +1,95 @@
+<div align="center">
+
+# Yiyang Wang
+
+### Finance · Quantitative Research · Applied Data Science
+
+I use financial data, statistical modeling and machine learning to study markets, economic behavior and decision-making.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Yiyang--3-181717?style=flat-square&logo=github)](https://github.com/Yiyang-3)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-315A7D?style=flat-square&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Quantitative%20Finance-176B5B?style=flat-square)
+
+</div>
+
+---
+
+## About Me
+
+My work sits at the intersection of **finance, economics and data science**. I am particularly interested in quantitative research, financial time-series forecasting, portfolio analysis and the application of machine learning and natural language processing to financial problems.
+
+My projects span academic research, internship work and course-based applications, with an emphasis on transparent methodology, reproducible analysis and clear visual communication.
+
+## Selected Work
+
+### Quantitative Research
+
+#### [Quantitative Research Internship Portfolio](https://github.com/Yiyang-3/quantitative-research-internship-portfolio)
+
+Research and strategy-development work completed during a quantitative internship, covering portfolio optimization, ETF modeling and ETF creation-redemption arbitrage.
+
+`Portfolio Optimization` `ETF Research` `PyTorch` `QMT` `Python`
+
+---
+
+### Financial Forecasting
+
+#### [Shanghai Composite Regression Forecasting](https://github.com/Yiyang-3/shanghai-composite-regression-forecasting)
+
+A comparative analysis of linear, regularized, polynomial, spline, AR and ARX models for Shanghai Composite Index forecasting using market data and technical indicators.
+
+`Regression` `Time Series` `ARX` `Technical Indicators` `statsmodels`
+
+---
+
+### Financial NLP and Large Language Models
+
+#### [FOMC RAG Predicting](https://github.com/Yiyang-3/FOMC-RAG-Predicting)
+
+An English-language financial NLP project combining Federal Reserve text analysis, retrieval-augmented generation and predictive modeling.
+
+`NLP` `RAG` `Large Language Models` `Monetary Policy` `Python`
+
+---
+
+### Economic and Urban Analytics
+
+#### [China Tier-One City Analysis](https://github.com/Yiyang-3/china-tier-one-city-analysis)
+
+A data collection and visualization project comparing housing, employment, mobility and consumer preferences across China's tier-one cities.
+
+`Data Collection` `Economic Analysis` `Visualization` `pandas`
+
+## Research Interests
+
+- Quantitative finance and empirical asset pricing
+- Financial econometrics and time-series forecasting
+- Portfolio construction and strategy evaluation
+- Financial NLP and large language models
+- Economic data analysis and visualization
+
+## Technical Toolkit
+
+| Area | Tools and methods |
+|---|---|
+| Programming | Python, SQL, Jupyter Notebook |
+| Data analysis | pandas, NumPy, SciPy, Excel |
+| Modeling | scikit-learn, statsmodels, PyTorch |
+| Quantitative research | Portfolio optimization, regression, time-series analysis, backtesting |
+| Visualization | Matplotlib, Seaborn, Power BI |
+
+## Research and Publications
+
+My research experience includes comparative financial forecasting, empirical time-series analysis and conference-presented work. Complete papers, methodology notes and supporting materials are provided in the corresponding repositories where publication permissions allow.
+
+## Current Focus
+
+I am continuing to develop projects in quantitative research and applied financial data science, with particular attention to reproducibility, model interpretation and the practical limits of empirical results.
+
+---
+
+<div align="center">
+
+Explore my repositories at **[github.com/Yiyang-3](https://github.com/Yiyang-3?tab=repositories)**
+
+</div>
