@@ -2,12 +2,6 @@
 
 # Yiyang Wang
 
-### Finance · Quantitative Research · Applied Data Science
-
-I am interested in applying statistical modeling, machine learning and data-driven methods to questions in finance and economics. 
-
-My portfolio brings together academic research, selected course projects, and internship experience.
-
 
 </div>
 
