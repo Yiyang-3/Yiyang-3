@@ -4,9 +4,7 @@
 
 ### Finance · Quantitative Research · Applied Data Science
 
-I am interested in applying statistical modeling, machine learning and data-driven methods to questions in finance and economics. My academic and project experience spans financial time-series forecasting, quantitative research, portfolio analysis, financial NLP and empirical data visualization.
-
-Through research projects, internship experience and conference-presented work, I have developed a particular interest in combining rigorous empirical analysis with computational methods. I hope to pursue graduate study that will deepen my training in quantitative finance, financial econometrics and applied data science.
+I am interested in applying statistical modeling, machine learning and data-driven methods to questions in finance and economics. My portfolio brings together academic research, selected course projects, and internship experience.
 
 
 </div>
