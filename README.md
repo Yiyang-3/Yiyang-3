@@ -3,8 +3,6 @@
 # Yiyang Wang
 
 
-</div>
-
 ---
 
 ## About Me
