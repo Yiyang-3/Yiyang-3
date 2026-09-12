@@ -4,7 +4,9 @@
 
 ### Finance · Quantitative Research · Applied Data Science
 
-I use financial data, statistical modeling and machine learning to study markets, economic behavior and decision-making.
+I am interested in applying statistical modeling, machine learning and data-driven methods to questions in finance and economics. My academic and project experience spans financial time-series forecasting, quantitative research, portfolio analysis, financial NLP and empirical data visualization.
+
+Through research projects, internship experience and conference-presented work, I have developed a particular interest in combining rigorous empirical analysis with computational methods. I hope to pursue graduate study that will deepen my training in quantitative finance, financial econometrics and applied data science.
 
 
 </div>
@@ -13,9 +15,11 @@ I use financial data, statistical modeling and machine learning to study markets
 
 ## About Me
 
-My work sits at the intersection of **finance, economics and data science**. I am particularly interested in quantitative research, financial time-series forecasting, portfolio analysis and the application of machine learning and natural language processing to financial problems.
+My academic interests lie at the intersection of finance, economics and data science. I am particularly interested in quantitative finance, financial econometrics, time-series forecasting and the application of machine learning and natural language processing to financial research.
 
-My projects span academic research, internship work and course-based applications, with an emphasis on transparent methodology, reproducible analysis and clear visual communication.
+My experience includes comparative modeling of financial markets, portfolio optimization, ETF-related quantitative research, macroeconomic text analysis and large-scale economic data collection. Across these projects, I have worked with regression and time-series models, machine learning methods, technical indicators, backtesting frameworks and data visualization.
+
+These experiences have strengthened my interest in graduate-level study and research. I hope to further develop my theoretical and empirical skills, explore reliable computational methods for financial and economic analysis, and contribute to research that connects quantitative methodology with real-world questions.
 
 ## Selected Work
 
