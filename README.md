@@ -6,9 +6,6 @@
 
 I use financial data, statistical modeling and machine learning to study markets, economic behavior and decision-making.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yiyang--3-181717?style=flat-square&logo=github)](https://github.com/Yiyang-3)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-315A7D?style=flat-square&logo=python&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Quantitative%20Finance-176B5B?style=flat-square)
 
 </div>
 
